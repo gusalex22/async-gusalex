@@ -1,0 +1,24 @@
+{
+  "name": "async-gusalex",
+  "version": "1.0.0",
+  "description": "NodeJs: async gusalex",
+  "main": "async-gusalex.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusalex22/async-gusalex.git"
+  },
+  "keywords": [
+    "async",
+    "gusalex",
+    "formation"
+  ],
+  "author": "Alex Gus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusalex22/async-gusalex/issues"
+  },
+  "homepage": "https://github.com/gusalex22/async-gusalex#readme"
+}
